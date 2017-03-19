@@ -1,3 +1,4 @@
+package org.usfirst.frc.team3279.vision;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
